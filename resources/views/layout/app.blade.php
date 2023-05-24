@@ -12,7 +12,7 @@
     @vite('resources/js/app.js')
     <style>
        .my_card_img{
-        height: 500px
+        height: 400px
        } 
     </style>
 

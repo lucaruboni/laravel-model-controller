@@ -5,7 +5,7 @@
 
     <h1 class="text-center py-3">FILMONI e filmini</h1>
 
-    <div class="row row-cols-3 gap-5 justify-content-evenly">
+    <div class="row row-cols-4 gap-5 justify-content-evenly">
     
 
     @forelse ($movies as $movie )
